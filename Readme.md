@@ -14,9 +14,9 @@ Paper I've reproduced.
 | Graph Attention Networks                                     | ICLR   | 2018 | GAT          |
 | Reinforcement Learning Based Query Vertex Ordering Model for Subgraph Matching | ICDE   | 2022 | RL-QVO       |
 | In-Memory Subgraph Matching: An In-depth Study               | SIGMOD | 2020 | Hybrid       |
-|                                                              |        |      |              |
-|                                                              |        |      |              |
-|                                                              |        |      |              |
+| Graphs-at-a-time: Query Language and Access Methods for Graph Databases | SIGMOD | 2008 | GraphQL      |
+| A subgraph isomorphism algorithm and its application to biochemical data | BMC    | 2013 | RI           |
+| Taming Verification Hardness: An Efficient Algorithm for Testing Subgraph Isomorphism | VLDB   | 2008 | QuickSI      |
 |                                                              |        |      |              |
 |                                                              |        |      |              |
 |                                                              |        |      |              |
