@@ -17,8 +17,19 @@ Paper I've reproduced.
 | Graphs-at-a-time: Query Language and Access Methods for Graph Databases | SIGMOD | 2008 | GraphQL      |
 | A subgraph isomorphism algorithm and its application to biochemical data | BMC    | 2013 | RI           |
 | Taming Verification Hardness: An Efficient Algorithm for Testing Subgraph Isomorphism | VLDB   | 2008 | QuickSI      |
+| VF2++ An improved subgraph isomorphism algorithm             | DAM    | 2018 | VF2++        |
+| An algorithm for subgraph isomorphism                        | JACM   | 1976 | Ullmann      |
+| Ceci Compact embedding cluster index for scalable subgraph matching | SIGMOD | 2019 | CECI         |
+| Efcient Subgraph Matching Harmonizing Dynamic Programming, Adaptive Matching Order, and Failing Set Together | SIGMOD | 2019 | DAF          |
+| Efficient subgraph matching by postponing cartesian products | SIGMOD | 2016 | CFL          |
 |                                                              |        |      |              |
 |                                                              |        |      |              |
 |                                                              |        |      |              |
 |                                                              |        |      |              |
+
+books I've read
+
+| Book                          | Year |
+| ----------------------------- | ---- |
+| Graph Representation Learning | 2020 |
 
